@@ -1,0 +1,85 @@
+#slide {
+  margin-top: 30px; }
+  #slide img {
+    width: 650px;
+    height: 600px; }
+  #slide #text {
+    height: 600px;
+    background: #767070;
+    margin-right: -15px; }
+    #slide #text h2, #slide #text p, #slide #text button {
+      color: white;
+      margin-left: 70px; }
+    #slide #text h2 {
+      margin-top: 180px;
+      font-size: 30px; }
+    #slide #text button {
+      border-radius: 15%;
+      padding: 15px;
+      background: #5e5a5a;
+      border: none; }
+      #slide #text button:hover {
+        background: rgba(0, 0, 0, 0.6); }
+  #slide #text1 {
+    display: none;
+    height: 600px;
+    background: #ccd0c1;
+    margin-right: -15px; }
+    #slide #text1 h2, #slide #text1 p, #slide #text1 button {
+      color: grey;
+      margin-left: 70px; }
+    #slide #text1 h2 {
+      margin-top: 180px;
+      font-size: 30px; }
+    #slide #text1 button {
+      display: none;
+      border-radius: 15%;
+      padding: 15px;
+      background: #5e5a5a;
+      border: none; }
+      #slide #text1 button:hover {
+        background: rgba(0, 0, 0, 0.6); }
+  #slide #text2 {
+    display: none;
+    height: 600px;
+    background: #f3b96c;
+    margin-right: -15px; }
+    #slide #text2 h2, #slide #text2 p, #slide #text2 button {
+      color: white;
+      margin-left: 70px; }
+    #slide #text2 h2 {
+      margin-top: 180px;
+      font-size: 30px; }
+    #slide #text2 button {
+      display: none;
+      border-radius: 15%;
+      padding: 15px;
+      background: #5e5a5a;
+      border: none; }
+      #slide #text2 button:hover {
+        background: rgba(0, 0, 0, 0.6); }
+  #slide #text3 {
+    display: none;
+    height: 600px;
+    background: #f46c6a;
+    margin-right: -15px; }
+    #slide #text3 h2, #slide #text3 p, #slide #text3 button {
+      color: white;
+      margin-left: 70px; }
+    #slide #text3 h2 {
+      margin-top: 180px;
+      font-size: 30px; }
+    #slide #text3 button {
+      display: none;
+      border-radius: 15%;
+      padding: 15px;
+      background: #5e5a5a;
+      border: none; }
+      #slide #text3 button:hover {
+        background: rgba(0, 0, 0, 0.6); }
+  #slide .btn-group {
+    margin-top: -57px;
+    margin-left: 488px;
+    padding: 10px; }
+
+/*# sourceMappingURL=style.css.map */
